@@ -1,0 +1,15 @@
+2019-01-09 13:55:50 INFO  ListaEnlazadaClient:43 - Inicio ejecucion cliente
+2019-01-09 13:55:52 INFO  ListaEnlazadaClient:37 - Nodo 1: PAN
+2019-01-09 13:55:52 INFO  ListaEnlazadaClient:37 - Nodo 2: CON
+2019-01-09 13:55:52 INFO  ListaEnlazadaClient:37 - Nodo 3: PALTA
+2019-01-09 13:55:52 INFO  ListaEnlazadaClient:37 - Nodo 1: PAN
+2019-01-09 13:55:52 INFO  ListaEnlazadaClient:37 - Nodo 2: CON
+2019-01-09 13:55:52 INFO  ListaEnlazadaClient:37 - Nodo 1: PAN
+2019-01-09 13:55:52 INFO  ListaEnlazadaClient:37 - Nodo 2: CON
+2019-01-09 13:55:52 INFO  ListaEnlazadaClient:37 - Nodo 3: CHANCHO
+2019-01-09 13:55:52 INFO  ListaEnlazadaClient:37 - Nodo 1: CON
+2019-01-09 13:55:52 INFO  ListaEnlazadaClient:37 - Nodo 2: CHANCHO
+2019-01-09 13:55:52 INFO  ListaEnlazadaClient:37 - Nodo 1: ARROZ
+2019-01-09 13:55:52 INFO  ListaEnlazadaClient:37 - Nodo 2: CON
+2019-01-09 13:55:52 INFO  ListaEnlazadaClient:37 - Nodo 3: CHANCHO
+2019-01-09 13:55:52 INFO  ListaEnlazadaClient:99 - Fin ejecucion cliente
